@@ -1,4 +1,5 @@
 # airbnb-clone-project
+DataBase Design.
 Airbnb Clone Backend
 Overview
 The Airbnb Clone backend is designed to provide a robust and scalable foundation for a platform that mimics the core functionalities of Airbnb. It supports user interactions, property listings, bookings, payments, and reviews, ensuring a seamless experience for both users and hosts.
